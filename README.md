@@ -8,7 +8,7 @@ while, so I'm writing some code as a mini-retreat to see if I'd like it.
 I don't know too much Rust (I've modified some Rust + WASM code, but I haven't
 set it up or coded anything out of it myself).
 
-I personally like Connect 4.
+I personally like Connect 4, so that's why I chose it as a simple starter project.
 
 ## Setup
 TODO write
